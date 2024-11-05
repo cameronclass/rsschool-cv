@@ -17,14 +17,9 @@ I have developed the mindset that nothing is impossible and always complete any 
 - HTML5, CSS3, JavaScript (Vue Basics), PHP (Basics), WordPress
 - Bootstrap 4, 5 / UIkit / Foundation / Tailwind
 - LESS/SCSS / Gulp / Webpack
-- GitHub
+- Git, GitHub
 - Cross-browser compatibility
 - Responsive design
-- Fixed-width / fluid layout
-- Adaptive layout
-- Compliance with W3C standards
-- SEO-friendly layout
-- Custom font integration (@font-face, cufon, Google Web Fonts)
 - Pixel perfect implementation
 
 ## Code Example:
